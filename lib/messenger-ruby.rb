@@ -19,7 +19,6 @@ module Messenger
   end
 end
 
-require "messenger/engine"
 require "messenger/params"
 
 require "messenger/components/elements/text"
